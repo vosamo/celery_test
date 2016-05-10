@@ -1,6 +1,6 @@
 ## 用来测试Celery的简单例子
 
-采用Celery做异步任务调度，用rabbiemq作broker和保存任务结果。
+采用Celery做异步任务调度，用rabbitmq作broker和保存任务结果。
 
 ## 依赖
 
